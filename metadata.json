@@ -1,0 +1,5 @@
+{
+  "name": "TippingPoint IPS Log Analyser",
+  "description": "An advanced client-side application to parse, display, and analyze TippingPoint IPS network device logs (TSR). Features an AI-powered assistant for intelligent log analysis and troubleshooting.",
+  "requestFramePermissions": []
+}
